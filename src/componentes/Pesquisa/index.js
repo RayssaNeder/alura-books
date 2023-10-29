@@ -67,4 +67,4 @@ function Pesquisa(){
     )
 }
 
-export default Pesquisa
+export default Pesquisa;
